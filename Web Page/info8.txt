@@ -1,0 +1,3 @@
+<h2>Información</h2>
+Esta página web tiene el propósito de salvar vidas gracias a la prevención de los desastres naturales mediante la aparición de estos en un mapa. El Mapa de Desastres Naturales (<i>Natural Disaster Map</i>) es este mapa y en él están situados todos los desastres naturales y clasificados según su intensidad, localización geográfica, etc.
+<img id="aboutus" src="/mapa_info.jpg" alt="About us" style="position:absolute; width:17%; height:20%; left:83%; top:80%"/>
