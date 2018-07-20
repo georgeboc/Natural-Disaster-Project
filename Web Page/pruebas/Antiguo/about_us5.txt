@@ -1,5 +1,0 @@
-﻿<h2>About us</h2>
-Nosotros somos unos alumnos del centro Santa Anna de Lleida y hemos creado esta página web como proyecto científico de la First Lego League (FLL). Aquí os dejamos una imagen de la FLL.<br>
-<br>
-<img src="/FLLicon_RGB_2011.jpg" width="300" height="300"/>
-<img id="aboutus" src="/about-us.jpg" alt="About us" style="position:absolute; width:25%; height:20%; left:75%; top:80%"/>
